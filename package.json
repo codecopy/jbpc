@@ -1,0 +1,34 @@
+{
+  "name": "jbpc",
+  "displayName": "Just Black + Comments",
+  "description": "Modification of the popular pure black theme with more readable comments",
+  "version": "0.0.1",
+  "publisher": "Infi",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "icon": "justblack.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "black",
+    "justblack",
+    "comments",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infi/jbpc"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Just Black + Comments",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jbpc-color-theme.json"
+      }
+    ]
+  }
+}
