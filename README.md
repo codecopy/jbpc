@@ -1,4 +1,6 @@
-# Just Black + Commands
+# Just Black + Comments
+
+![vscode with just black + comments theme and the text SP46 JUST BLACK PLUS COMMENTS superimposed on top of it](https://i.imgur.com/HFbxLPJ.png)
 
 Modification of the popular pure black theme with more readable comments.
 

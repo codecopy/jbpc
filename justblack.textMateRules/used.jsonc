@@ -1,7 +1,7 @@
 				{
 					"scope": "comment.block", // ( 1 )                                                                      
 					"settings": {
-						"foreground": "#ff1493",
+						"foreground": "#000000",
 						"fontStyle": "italic bold underline"
 					}
 				},
